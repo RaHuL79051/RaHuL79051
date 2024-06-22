@@ -10,7 +10,7 @@
 ###
 
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/one-piece-1piece-happy-smile-lol-gif-26409798)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
