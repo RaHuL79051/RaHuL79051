@@ -1,3 +1,5 @@
+<html>
+  <body>
 <h2 align="left">Hi 👋! My name is Rahul Saxena and I'm a Web Developer, from Lucknow, UP</h2>
 
 ###
@@ -62,3 +64,5 @@
 
 ###
 <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</body>
+</html>
