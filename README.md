@@ -26,8 +26,8 @@
 
 | Project | Description |
 |--------|-------------|
-| [Boook QR Scanner](((https://github.com/RaHuL79051/Book-QR-Scanner)) | A modern LMS System with self check in and out, etc. |
-| [AI-Resume-Screener]((https://github.com/RaHuL79051/job-seaker)) | An Modern Job Platfrom with personalized search feature |
+| [Boook QR Scanner](https://github.com/RaHuL79051/Book-QR-Scanner) | A modern LMS System with self check in and out, etc. |
+| [AI-Resume-Screener](https://github.com/RaHuL79051/job-seaker) | An Modern Job Platfrom with personalized search feature |
 | [Personal Portfolio](https://github.com/RaHuL79051/portfolio.github.io) | A Personal Portfolio to showcase my skills and knowledge. |
 
 ---
