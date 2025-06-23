@@ -1,64 +1,54 @@
-<h2 align="left">Hi 👋! My name is Rahul Saxena and I'm a Web Developer, from Lucknow, UP</h2>
+<h1 align="center">Hi 👋, I'm Rahul Saxena</h1>
+<h3 align="center">🚀 Full-stack Developer | 🤖 AI/ML Enthusiast | 💡 Creative Coder</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Exploring+Tech+%26+Ideas" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaHuL79051&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaHuL79051&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🧰 Languages & Tools I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,java,mysql,git,github,vscode" />
+</p>
 
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulsaxena-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsaxena-dev&theme=tokyonight" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+### 📁 Featured Repositories
 
-###
+| Project | Description |
+|--------|-------------|
+| [JobSeaker](https://github.com/rahulsaxena-dev/JobSeaker) | A modern job posting app with animated UI |
+| [AI-Resume-Screener](https://github.com/rahulsaxena-dev/AI-Resume-Screener) | Auto-screens resumes using AI and ML |
+| [Blockchain-DevTool](https://github.com/rahulsaxena-dev/Blockchain-DevTool) | Lightweight blockchain explorer for devs |
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 🧠 About Me
 
-<br clear="both">
+- 🎓 MCA in Artificial Intelligence & Machine Learning  
+- 🌱 Currently learning **DevOps** and **Rust**
+- 🧩 Always exploring new ideas in **tech and design**
+- 💬 Ask me about `Java`, `Web Development`, or `GitHub hacks`
 
-<img src="https://raw.githubusercontent.com/RaHuL79051/RaHuL79051/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RaHuL79051/count.svg?"  />
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/rahulsaxena-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:saxenaa332@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/rahulsaxena-dev"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+</p>
 
-###
+---
+
+<p align="center">⭐️ Star this repo to keep my profile shining!</p>
